@@ -1,0 +1,12 @@
+{
+    "name": "gray/pdf",
+    "authors": [
+        {
+            "name": "hildebert",
+            "email": "sergiy.ryepkov@gmail.com"
+        }
+    ],
+    "require": {
+        "setasign/fpdi": "^2.0"
+    }
+}
